@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Working data files (not needed for the website)
+properties.json
+properties_parsed.json
+properties_final.json
+geocoded_raw.txt
+
+# Claude session files
+.claude/
+
+# Excel source
+CostarExport-10.xlsx
